@@ -12,7 +12,6 @@
   - [Built with](#built-with)
   - [What I learned](#what-i-learned)
   - [Continued development](#continued-development)
-  - [Useful resources](#useful-resources)
 - [Author](#author)
 
 ## Overview
@@ -37,10 +36,15 @@ Create a homepage following the design. The page should be responsive. Fulfill u
 - Semantic HTML5 markup
 - CSS custom properties
 - Flexbox
+- Responsive CSS
 
 ### What I learned
 
-I learned how to use flex-box effectively in a website which can make life easy for a developer.
+I learned how to make a responsive website using just CSS which turned out to be a really tough task. This is where I got the importance of using a framework where frameworks like bootstrap, tailwind make our life easier while designing responsive websites.
+
+### Continued Development
+
+Next up, I'll be learning new frameworks like bootstrap, tailwind and make some websites too! Also, need to practice making responsive websites with CSS only.
 
 ## Author
 
