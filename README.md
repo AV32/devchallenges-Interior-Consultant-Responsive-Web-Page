@@ -1,6 +1,6 @@
 # Frontend Mentor - Insure landing page
 
-![Design preview for the Insure landing page coding challenge](.Screenshot 2021-06-12 163942.png)
+![Design preview for the Insure landing page coding challenge](Screenshot 2021-06-12 163942.png)
 
 ## Table of contents
 
