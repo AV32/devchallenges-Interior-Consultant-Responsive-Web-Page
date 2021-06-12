@@ -21,8 +21,10 @@
 
 Users should be able to:
 
-- View the optimal layout for the site depending on their device's screen size
-- See hover states for all interactive elements on the page
+Create a homepage following the design. The page should be responsive. Fulfill user stories below:
+- User story: I can see a page following the given design
+- User story: On mobile, I can see a collapsed navigation
+- User story: On mobile, when I select the hamburger menu, I can see a navigation
 
 ### Links
 
