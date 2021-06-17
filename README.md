@@ -27,7 +27,7 @@ Create a homepage following the design. The page should be responsive. Fulfill u
 
 ### Links
 
-- Live Site URL: [Click Here to visit the website](https://laughing-easley-918c72.netlify.app/)
+- Live Site URL: [Click Here to visit the website](https://intconsultantpage.netlify.app/)
 
 ## My process
 
