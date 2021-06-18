@@ -1,6 +1,6 @@
 # Interior Consultant - Responsive Web Page
 
-![Screenshot 2021-06-12 163942](https://user-images.githubusercontent.com/79203678/121774043-aeecf180-cb9d-11eb-84c8-a68f5aea7813.png)
+![Interior Consultant - Responsive Web Page](https://user-images.githubusercontent.com/79203678/121774043-aeecf180-cb9d-11eb-84c8-a68f5aea7813.png)
 
 ## Table of contents
 
